@@ -226,7 +226,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .easy-cron {
   display: inline-block;
   border: 1px solid #2d8cf0;
